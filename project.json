@@ -1,0 +1,74 @@
+{
+  "title": "Proyeco 1",
+  "author": "Felipa Real (Docente)",
+  "date": "13/06/25",
+  "langCodes": [
+    "es"
+  ],
+  "languages": {
+    "es": "español"
+  },
+  "areaCodes": [
+    "div"
+  ],
+  "areas": {
+    "es": "Diversos"
+  },
+  "levelCodes": [
+    "INF"
+  ],
+  "levels": {
+    "es": "Infantil (3-6)"
+  },
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "JUEGO_DE_MEMORIA.jclic.zip2.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 31,
+  "totalSize": 2168131,
+  "files": [
+    "JUEGO_DE_MEMORIA.jclic.zip2.jclic",
+    "JUEGO_DE_MEMORIA.jclic.zip2.jclic.js",
+    "amarillo-resized.jpg",
+    "amarillo.mp3",
+    "anaranjado.mp3",
+    "banana.jpg",
+    "banana.mp3",
+    "cir_morado.jpg",
+    "color_naranja.jpg",
+    "color_verde.jpg",
+    "error.gif",
+    "fallaste.mp3",
+    "favicon.ico",
+    "fin.gif",
+    "fin_del_juego.mp3",
+    "grape-dissapear.gif",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "inicio.mp3",
+    "kg8200b-rojo-sangre-brillo-resized.jpg",
+    "leg.gif",
+    "manzana.gif",
+    "manzana.mp3",
+    "morado.mp3",
+    "naranja.gif",
+    "naranja.mp3",
+    "pera.gif",
+    "pera.mp3",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "rojo.mp3",
+    "uvas.mp3",
+    "verde.mp3"
+  ]
+}
